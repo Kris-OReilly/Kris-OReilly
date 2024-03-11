@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome! 👋
+#### My name is Kris and this is my first Github page.
 
-<!--
-**Kris-OReilly/Kris-OReilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is where I will house all my projects and document my learning journey**
+##### A few things about me:
+- I’m currently learning Python by completing a Software Engineering Bootcamp with HyperionDev :nerd_face:
 
-Here are some ideas to get you started:
+- I’m looking for help with expanding my knowledge in the wide world of programming! If there are any budding mentors out there who would like to help me get into a tech career, please get in touch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **How to reach me:** 
+  - Message me or connect on [LinkedIn](https://www.linkedin.com/in/kris-oreilly/)
+  - Email me [:e-mail:](mailto:reilly16988@gmail.com)
+
